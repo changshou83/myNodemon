@@ -1,0 +1,17 @@
+{
+    "name": "nodekeeper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "nodekeeper": "./index.js"
+    },
+    "author": "changshou83",
+    "license": "ISC",
+    "dependencies": {
+        "chokidar": "^3.5.2"
+    }
+}
